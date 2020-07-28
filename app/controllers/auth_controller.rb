@@ -11,6 +11,16 @@ class AuthController < ApplicationController
     end
   end
   
+  def sign_up
+    user = User.new(user_login_params)
+    if user.valid?
+      user.save
+      render json: { user: user, username: user.username, token: generate_token(id: user.id)}
+    else
+      render json: { message: "Invalid username/password/email"}
+    end
+  end
+
   def validate
     render json: { user: UserSerializer.new(current_user)}
   end

@@ -99,8 +99,7 @@ array =
       "img_url": "https://media.timeout.com/images/103752483/380/285/image.jpg",
       "buy_entry": 1000,
       "booked": 0
-  }
-  
+  }  
   ]
 
 

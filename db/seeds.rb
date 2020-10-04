@@ -4,7 +4,7 @@ array =
     "id": 1,
     "name": "BURNING MAN",
     "location": "BLACK ROCK DESERT, NEVADA",
-    "price": 150,
+    "price": 140,
     "bio": "It’s part Mad Max, part Survivor, and part Comic-Con (see: CRAZY costumes & festival clothing), with an emphasis on experimental creativity, cooperation, and civic responsibility",
     "img_url": "https://greenglobaltravel.com/wp-content/uploads/2018/01/Best-Cultural-Festivals-Burning-Man-610x920.jpg",
     "buy_entry": 300,
@@ -42,7 +42,7 @@ array =
   },
   {   
       "id": 5,
-      "name": "Field Day",
+      "name": "Field day",
       "location": "London, UK",
       "price": 70,
       "bio": "Expanded again to a two-day event (after a year as a one-dayer), Field Day continues to be cooler than a cucumber with a hipster beard and an ironic tattoo. It’s a great place to get day-drunk on craft beer after lining your stomach with the latest vegan food in the super-chill Village Green area. But Field Day has serious muso cred too; it's carefully curated to include edgy guitar music, shoegaze, alternative R&B, smart rap, revered DJs and everything else that’s in vogue. It also boasts one of the best stages on the UK festival circuit, the Barn, a state-of-the-art hangar with a seriously impressive lighting rig.",
